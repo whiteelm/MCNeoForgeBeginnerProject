@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "testures": {
+    "layer0": "thewitcher:item/bismuth"
+  }
+}
