@@ -52,6 +52,7 @@ public class TheWitcherMod {
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey()== CreativeModeTabs.INGREDIENTS){
             event.accept(ModItems.BISMUTH);
+            event.accept(ModItems.RAW_BISMUTH);
         }
     }
 
