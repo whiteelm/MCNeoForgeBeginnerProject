@@ -20,7 +20,7 @@ import net.neoforged.neoforge.event.server.ServerStartingEvent;
 @Mod(TheWitcherMod.MOD_ID)
 public class TheWitcherMod {
 
-    public static final String MOD_ID = "examplemod";
+    public static final String MOD_ID = "thewitchermod";
 
     public static final Logger LOGGER = LogUtils.getLogger();
 
